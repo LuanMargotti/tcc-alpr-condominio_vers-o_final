@@ -1,0 +1,12 @@
+# Ignora o ambiente virtual (ele tem milhares de arquivos inúteis pro GitHub)
+env/
+
+# Ignora as imagens do dataset (muito pesado)
+datasets/
+
+# Ignora os arquivos temporários que o Python cria sozinho
+__pycache__/
+*.pyc
+
+# Ignora os caches do YOLO
+*.cache

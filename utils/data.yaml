@@ -1,0 +1,6 @@
+path: ./dataset  # caminho da pasta raiz do dataset
+train: images/train  # fotos de treino
+val: images/val      # fotos de validação
+
+names:
+  0: placa
